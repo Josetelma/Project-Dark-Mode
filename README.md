@@ -1,6 +1,9 @@
 <h1>Project Dark Mode - Light and Dark</h1>
 <br>
-<h1>Creating Dark Mode - Toggle Light and Dark:</h1>
+<h1>The user wants to read content with a dark theme, so the content image needs to adapt and be less bright.
+
+Modern browsers have the option of setting the appearance to dark 🌑 light 🌕 or following the preferences already defined in the theme that the user chose in the Operating System. 🌗</h1>
+<h2>Creating Dark Mode - Toggle Light 🌕 and Dark 🌑 :</h2>
 <br> 
 <lo>
 <li>HTML Structure:
