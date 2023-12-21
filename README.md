@@ -8,6 +8,7 @@ Create separate styles for light and dark modes in your CSS file.</li>
 <li>Toggle JavaScript:
 Use JavaScript to switch between light and dark mode by adding or removing a class from the body element.</li>
 </lo>
+<br>
 
-
-<img src="https://github.com/Josetelma/Project-Flower/blob/main/assets/flower.JPG?raw=true"/></h2>
+<img src="https://github.com/Josetelma/Project-Dark-Mode/blob/main/assets/img/sun.JPG?raw=true"/>
+<img src="https://github.com/Josetelma/Project-Dark-Mode/blob/main/assets/img/sun.JPG?raw=true"/>
